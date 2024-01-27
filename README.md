@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Application URL:
+Application URL: https://vineysha.github.io/work-day-scheduler/
 
 Upon opening the application, the user will be able to see the date and current time.
 
